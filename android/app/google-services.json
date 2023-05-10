@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "588157467371",
+    "project_id": "estacionamientoiteso",
+    "storage_bucket": "estacionamientoiteso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588157467371:android:d31f59e4884f09d8485cae",
+        "android_client_info": {
+          "package_name": "com.example.estacionamiento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588157467371-crn9a3qnt5a3ghlql8a35457u48ccj1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estacionamiento",
+            "certificate_hash": "9b6cd494bce9b870d9a2cca43a522eb7c0c46112"
+          }
+        },
+        {
+          "client_id": "588157467371-2cjdijo88hnhn1almsm4tfnuqcc9n6en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxPA4jO_XUG072ZXf5ZxdXaOxgbqMlY84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588157467371-2cjdijo88hnhn1almsm4tfnuqcc9n6en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
